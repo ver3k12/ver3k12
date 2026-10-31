@@ -13,13 +13,14 @@
 
 ### About me
 
-I build practical web tools and community-focused projects. I enjoy making useful things that are simple to use and easy to share.
+I'm a developer and content creator who designs and builds practical websites, web tools, and community-focused projects.
 
-### Websites
+### Websites I've created
 
 - **[pvpblaze.net](https://pvpblaze.net/)** — My website and home for my projects.
-- **[URL PVPBlaze](https://url.pvpblaze.net/)** — A URL-related web project.
+- **[URL PVPBlaze](https://url.pvpblaze.net/)**
 - **[Raypath by Joanna](https://raypathbyjoanna.uk/)**
+- **[Boryna Sklep](https://borynasklep.pl/)**
 
 ### Featured projects
 
@@ -32,9 +33,9 @@ I'm part of **[Spacehost.ovh](https://github.com/Spacehost-me)**, a small team t
 
 ### GitHub stats
 
-| Public repositories | Featured websites | Organization |
+| Public repositories | Websites I've created | Organization |
 |:--:|:--:|:--:|
-| **4** | **3** | **[Spacehost.ovh](https://github.com/Spacehost-me)** |
+| **4** | **4** | **[Spacehost.ovh](https://github.com/Spacehost-me)** |
 
 *Repository count reflects my public GitHub repositories as of this update.*
 
