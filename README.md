@@ -15,6 +15,12 @@
 
 I build practical web tools and community-focused projects. I enjoy making useful things that are simple to use and easy to share.
 
+### Websites
+
+- **[pvpblaze.net](https://pvpblaze.net/)** — My website and home for my projects.
+- **[URL PVPBlaze](https://url.pvpblaze.net/)** — A URL-related web project.
+- **[Raypath by Joanna](https://raypathbyjoanna.uk/)**
+
 ### Featured projects
 
 - **[JSON Formatter](https://github.com/ver3k12/json-formatter)** — A lightweight web tool to format and validate JSON.
@@ -26,10 +32,11 @@ I'm part of **[Spacehost.ovh](https://github.com/Spacehost-me)**, a small team t
 
 ### GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ver3k12&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Ve3rik's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ver3k12&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
-</p>
+| Public repositories | Featured websites | Organization |
+|:--:|:--:|:--:|
+| **4** | **3** | **[Spacehost.ovh](https://github.com/Spacehost-me)** |
+
+*Repository count reflects my public GitHub repositories as of this update.*
 
 ### Find me online
 
