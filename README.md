@@ -31,15 +31,18 @@ I'm a developer and content creator who designs and builds practical websites, w
 
 I'm part of **[Spacehost.ovh](https://github.com/Spacehost-me)**, a small team that loves building things on the internet. Check out our [open-source projects](https://github.com/orgs/Spacehost-me/repositories).
 
-### GitHub stats
+## 📊 GitHub Stats
 
-| Public repositories | Websites I've created | Organization |
-|:--:|:--:|:--:|
-| **4** | **4** | **[Spacehost.ovh](https://github.com/Spacehost-me)** |
+<p align="center">
+  <img src="https://github-readme-stats-sand-two-32.vercel.app/api?username=ver3k12&theme=chartreuse-dark&show_icons=true&hide_border=true" alt="Ve3rik's GitHub stats" height="220">
+  <img src="https://github-readme-stats-sand-two-32.vercel.app/api/top-langs/?username=ver3k12&theme=chartreuse-dark&show_icons=true&hide_border=true&langs_count=10&layout=compact" alt="Most used languages" height="220">
+</p>
 
-*Repository count reflects my public GitHub repositories as of this update.*
+## 🔗 Connect with me
 
-### Find me online
+<p>
+  <a href="mailto:merv1k@protonmail.com"><img src="https://img.shields.io/badge/Email-0052FF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email me"></a>
+</p>
 
 - Website: [pvpblaze.net](https://pvpblaze.net/)
 - Organization: [Spacehost.ovh](https://github.com/Spacehost-me)
